@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "하이파이 인터케이블 자작"
+---
+
 잘아는 지인으로부터 스피커 케이블보다 인터케이블이 더 중요하다는 말을 전해듣고, 인터케이블 제작하기로 마음먹고 예의 그 싸이트를 뒤졌습니다.
 
 [www.tnt-audio.com/clinica/diycables.html](www.tnt-audio.com/clinica/diycables.html)
