@@ -15,6 +15,6 @@ docs:
   - title: 자작
     children:
       - title: "오디오"
-        url: /diy/audio/
+        url: /categories/#audio/
       - title: "카메라"
-        url: /diy/camera/
+        url: /categories/#camera/
