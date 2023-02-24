@@ -10,3 +10,11 @@ main:
 #     url: /collection-archive/
 #   - title: "Sitemap"
 #     url: /sitemap/
+
+docs:
+  - title: 자작
+    children:
+      - title: "오디오"
+        url: /diy/audio/
+      - title: "카메라"
+        url: /diy/camera/
