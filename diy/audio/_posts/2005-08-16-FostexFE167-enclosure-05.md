@@ -3,7 +3,7 @@ layout: single
 title:  "Fostex FE167용 인클로져 자작기-5. 완성"
 ---
 
-![styled-image](/assets/images/2005-08-16/2005-08-162-01.jpg){: .align-center style="width: 90%;"}
+![styled-image](/assets/images/2005-08-16/2005-08-16-01.jpg){: .align-center style="width: 90%;"}
 
 드디어 스피커가 완성되었습니다.
 
@@ -19,6 +19,6 @@ title:  "Fostex FE167용 인클로져 자작기-5. 완성"
 
 그때는 더 나은 것을 만들 수 있을 겁니다.
 
-![styled-image](/assets/images/2005-08-16/2005-08-162-02.jpg){: .align-center style="width: 90%;"}
+![styled-image](/assets/images/2005-08-16/2005-08-16-02.jpg){: .align-center style="width: 90%;"}
 
-![styled-image](/assets/images/2005-08-16/2005-08-162-03.jpg){: .align-center style="width: 90%;"}
+![styled-image](/assets/images/2005-08-16/2005-08-16-03.jpg){: .align-center style="width: 90%;"}
