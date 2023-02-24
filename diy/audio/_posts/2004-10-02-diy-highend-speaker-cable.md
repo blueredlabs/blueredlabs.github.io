@@ -40,7 +40,7 @@ title:  "하이엔드 스피커 케이블 자작"
 따라서 이 프로젝트를 위해서 필요한 선길이는 4.5m x 3 중 x 2 체널 = 27m가 나옵니다.
 왜 4.5인가 하면 선을 꼬면서 길이가 조금 짧아지고 터미널 부분에서 손실분을 포함한 것입니다.
 
-![styled-image](/assets/images/2004-10-02/2004-10-02-01.jpg){: .align-center style="width: 50%;"}
+![styled-image](/assets/images/2004-10-02/2004-10-02-01.jpg){: .align-center style="width: 90%;"}
 
 
 
@@ -51,19 +51,19 @@ title:  "하이엔드 스피커 케이블 자작"
 그리고 한쪽은 타이 또는 테이프같은 것을 이용해서 고정시킨다음 여자 아이들 머리 땋듯이 꽈 나갑니다.
 위의 싸이트에선 30cm 정도마다 한번 정도 꽈주면 된다고 했는데, 저는 좀 더 조밀하게 꽜습니다.
 
-![styled-image](/assets/images/2004-10-02/2004-10-02-02.jpg){: .align-center style="width: 50%;"}
+![styled-image](/assets/images/2004-10-02/2004-10-02-02.jpg){: .align-center style="width: 90%;"}
 
 일단 다 꼬고 난 케이블의 모습이 (사진 3)에 있습니다.
 
-![styled-image](/assets/images/2004-10-02/2004-10-02-03.jpg){: .align-center style="width: 50%;"}
+![styled-image](/assets/images/2004-10-02/2004-10-02-03.jpg){: .align-center style="width: 90%;"}
 
 ### 4.3 터미널의 리드 만들기. (사진 4)
 
-![styled-image](/assets/images/2004-10-02/2004-10-02-04.jpg){: .align-center style="width: 50%;"}
+![styled-image](/assets/images/2004-10-02/2004-10-02-04.jpg){: .align-center style="width: 90%;"}
 
 여기까지 하신다음 끝 피복을 벗겨내 보면 사진과 같이 4쌍의 각 피복이있는 동선이 나옵니다 요것을 다 하나 하나 풀어낸다음 흰색선은 흰색선끼리 (12가닥) 색깔이 있는 것은 색깔이 있는 것 끼리 빡~빡~ 꽈서 하나로 모읍니다. (사진5)
 
-![styled-image](/assets/images/2004-10-02/2004-10-02-05.jpg){: .align-center style="width: 50%;"}
+![styled-image](/assets/images/2004-10-02/2004-10-02-05.jpg){: .align-center style="width: 90%;"}
 
 ### 4.4 완성 (사진 6)
 
@@ -72,7 +72,7 @@ title:  "하이엔드 스피커 케이블 자작"
 저의 경우는 각 체널의 컬러가 있는 곳은 Hot으로 흰색선은 Cold로 분류를 했습니다.
 만일 좀더 완성도를 높이고 싶다면, 소위 뱀가죽이라는 Braided Extendable tube를 이용하시면 되겠습니다.
 
-![styled-image](/assets/images/2004-10-02/2004-10-02-06.jpg){: .align-center style="width: 50%;"}
+![styled-image](/assets/images/2004-10-02/2004-10-02-06.jpg){: .align-center style="width: 90%;"}
 
 ## 5. 시청 소감.
 송구스럽게도, 아직 다른 스피커 케이블과 비교를 해볼만한 기회를 잡지 못해서 비교는 못하겠습니다만, 참 소리는 좋습니다.
